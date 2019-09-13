@@ -1,0 +1,30 @@
+Steps to Test the "BHGECodingTask.exe" Application:
+--------------------------------------------------
+1. Run the Application
+2. Select Browse.. button to import the .CSV file
+3. If the input is a valid .CSV file, the "CALCULATE VOLUME" button will be enabled
+4. Select "CALCULATE VOLUME" to see the Cubic volume in the selected units
+5. The parameters are made dynamic, so that user can play with different values for:
+	- Cell Length & Breadth
+	- Fluid Contact
+	- Distance bet.n Horizons
+
+
+Coding Practices used:
+---------------------
+	-MVVM Pattern
+	-INotifyPropertyChanged
+	-ICommand
+	-LINQ
+	-Action, Func
+	-Clean Code behind
+	-Exception Handling
+	-Auto Properties
+
+Note: 
+-----
+Still below features can be used if the data is Huge.
+
+	-Async Await
+	-Dependency Injection
+	 
