@@ -10,7 +10,7 @@ Steps to Test the "BHGECodingTask.exe" Application:
 	- Distance bet.n Horizons
 
 
-Coding Practices used:
+C# features used:
 ---------------------
 	-MVVM Pattern
 	-INotifyPropertyChanged
@@ -21,10 +21,4 @@ Coding Practices used:
 	-Exception Handling
 	-Auto Properties
 
-Note: 
------
-Still below features can be used if the data is Huge.
-
-	-Async Await
-	-Dependency Injection
 	 
